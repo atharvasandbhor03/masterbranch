@@ -15,7 +15,7 @@ public class readprpertyfiledata {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
-		
+		//code
 		FileInputStream fis=new FileInputStream("C:\\Users\\admin\\Desktop\\ddtpractice.properties");
 		Properties pro=new Properties();
 		pro.load(fis);

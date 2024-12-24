@@ -24,6 +24,7 @@ public class createContact_tc_01Test {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		// TODO Auto-generated method stub
+		//code
 		FileInputStream fis=new FileInputStream("C:\\Users\\admin\\Desktop\\ddtpractice.properties");
 		Properties pro=new Properties();
 		pro.load(fis);
