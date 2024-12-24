@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-07T13:38:22 IST" name="Suite" finished-at="2024-12-07T13:42:33 IST" duration-ms="250799">
+    <groups>
+    </groups>
+    <test started-at="2024-12-07T13:38:22 IST" name="Test" finished-at="2024-12-07T13:42:33 IST" duration-ms="250799">
+      <class name="com.practice.ddtproperty.readdatafromtestngxml">
+        <test-method signature="textngxmldata(org.testng.xml.XmlTest)[pri:0, instance:com.practice.ddtproperty.readdatafromtestngxml@436813f3]" started-at="2024-12-07T13:38:23 IST" name="textngxmldata" finished-at="2024-12-07T13:42:33 IST" duration-ms="250699" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.xml.XmlTest@d3b80eb4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textngxmldata -->
+      </class> <!-- com.practice.ddtproperty.readdatafromtestngxml -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
